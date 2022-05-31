@@ -1,3 +1,3 @@
 # minitalk
-[![hmeriann's 42Project Score](https://badge42.herokuapp.com/api/project/hmeriann/minitalk)](https://github.com/JaeSeoKim/badge42)
+The purpose of this project is to code a small data exchange program using UNIX signals. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.
 
